@@ -4,5 +4,3 @@
 
 ### [Project Page](https://github.com/mmcabukbt/kablosuzKedi-booklike-App-vue3-composition--script-setup-vite-tailwind)
 
-
-![booklike Image1](/readme_src/bl1.png)
